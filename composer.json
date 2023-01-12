@@ -1,0 +1,17 @@
+{
+    "name": "cingwun0817/chatbot-dispatcher",
+    "description": "for chatbot message dispatch example",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "L1O",
+            "email": "cingwun0817@gmail.com"
+        }
+    ],
+    "require": {}
+}
